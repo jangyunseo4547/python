@@ -15,7 +15,7 @@
 
 ## jupyterlab 설치
 ```
-- pip install jupyterlab
+- pip install jupyterlab 
 - pip list
 - source venv/Scripts/activate
 - jupyter lab
