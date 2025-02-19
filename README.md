@@ -24,3 +24,7 @@
 - source venv/Scripts/activate
 - jupyter lab
 ```
+
+## requests 설치
+- source venv/Scripts/activate
+- pip install requests
